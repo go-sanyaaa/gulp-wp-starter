@@ -31,11 +31,11 @@ const paths = {
         watch: "./src/sass/**/*"
     },
     scripts: {
-        src: "./src/js/index.js",
+        src: "./src/main.js",
         dist: "./dist/js/",
         watch: [
-            "./src/js/**/*.js",
-            "./src/components/**/*"
+            "./src/components/**/*",
+            "./src/*.{js,vue}"
         ]
     },
     fonts: {
