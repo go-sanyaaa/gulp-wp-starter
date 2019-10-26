@@ -1,7 +1,12 @@
 <p align="center"> 
-    <b>Webpack + Gulp + Pug + Sass Starter</b>
-    <img src="src/img/owner.png">
+    <img height="200px" src="src/img/owner.png">
 </p>
+
+<p align="center">
+    <b>Webpack + Gulp + Pug + Sass</b>
+</p>
+
+<hr>
 
 ### Запуск в режиме разработки
 `npm start`
