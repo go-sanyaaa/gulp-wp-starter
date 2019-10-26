@@ -1,5 +1,8 @@
 <p align="center"> 
-    <b>Webpack + Gulp + Pug + Sass Starter</b>
+    <h4>STARTER</h4>
+    <br/>
+    <h3>Webpack + Gulp + Pug + Sass</h3>
+    <br/>
     <img src="src/img/owner.png">
 </p>
 
